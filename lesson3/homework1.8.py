@@ -14,3 +14,5 @@ print(f"{int(days1)} дня")
 days2 = (height - down) / (up - down)
 print("Значение без округления:")
 print(f"{days2} дня")
+
+days3 = (height - up - 1) // (up - down) + 1 + 1

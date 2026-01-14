@@ -14,4 +14,3 @@ for i in range(1, len(s)):
 result += current_char + str(count)
 
 print(result)
-

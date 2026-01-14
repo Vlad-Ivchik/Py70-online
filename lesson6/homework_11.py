@@ -12,3 +12,4 @@ for i in numbers_str:
     else:
         print("NO")
         seen_numbers.add(i)
+

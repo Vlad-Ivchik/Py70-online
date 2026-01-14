@@ -10,3 +10,4 @@ for i in lst:
         result_2 = int(str(i)[::-1])
         result.append(result_2)
 print(result)
+

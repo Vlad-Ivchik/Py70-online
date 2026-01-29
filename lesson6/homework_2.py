@@ -6,3 +6,4 @@ for i in tup:
     if i < 0:
         count += 1
 print(count)
+

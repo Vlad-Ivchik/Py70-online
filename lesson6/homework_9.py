@@ -16,3 +16,4 @@ for num in original_list:
 
 result_list = positive_numbers + non_positive_numbers + nol
 print(result_list)
+

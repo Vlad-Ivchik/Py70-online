@@ -3,3 +3,4 @@
 tup = (9, 98, 3, 4, 5, 6)
 
 print(max(tup) - min(tup))
+

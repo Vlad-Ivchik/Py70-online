@@ -1,7 +1,7 @@
 # 5.	Добавьте минимум 20–30 актёров из разных стран, с разным возрастом и полом.
 
 
--- Добавление актёров
+
 INSERT INTO actors (age, sex, country, name, last_name) VALUES
 
 (45, 'male', 'USA', 'Leonardo', 'DiCaprio'),
@@ -36,4 +36,4 @@ INSERT INTO actors (age, sex, country, name, last_name) VALUES
 (44, 'female', 'Spain', 'Penélope', 'Cruz'),
 (59, 'male', 'Italy', 'Roberto', 'Benigni'),
 (40, 'female', 'Italy', 'Monica', 'Bellucci'),
-(62, 'male', 'Japan', 'Ken', 'Watanabe'),
+(62, 'male', 'Japan', 'Ken', 'Watanabe');
